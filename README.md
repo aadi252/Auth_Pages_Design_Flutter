@@ -1,16 +1,7 @@
-# auth_pages
+# auth_pages_design
 
-A new Flutter project.
+A set of clean and responsive authentication pages built using Flutter, including Login, Registration, OTP Verification, and Password Reset. Easily customizable and ready to integrate into any Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
